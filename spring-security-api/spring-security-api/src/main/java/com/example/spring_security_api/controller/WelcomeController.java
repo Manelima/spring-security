@@ -1,4 +1,4 @@
-package com.example.spring_security_api;
+package com.example.spring_security_api.controller;
 
 
 
